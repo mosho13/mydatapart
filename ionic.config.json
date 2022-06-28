@@ -1,0 +1,8 @@
+{
+  "name": "mydatapart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6a3ac387"
+}
